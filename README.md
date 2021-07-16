@@ -8,7 +8,7 @@
 <p align="left">
     <a href="https://dotnet.microsoft.com/apps/aspnet/mvc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="asp.net" width="40" height="40"/> </a>
     <a href="https://angularjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular JS" width="40" height="40"/> </a>
-    <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Angular JS" width="40" height="40"/> </a>
+    <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40"/> </a>
    <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </a>
    
  </p>
